@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">android_ListView</string>
+    <string-array name="Divisions">
+
+        <item>Barishal</item>
+        <item>Chottagong</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Mymensingh</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+
+    </string-array>
+
+</resources>
