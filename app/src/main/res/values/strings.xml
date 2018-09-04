@@ -2,10 +2,10 @@
     <string name="app_name">android_ListView</string>
     <string-array name="Divisions">
 
+        <item>Khulna</item>
         <item>Barishal</item>
         <item>Chittagong</item>
         <item>Dhaka</item>
-        <item>Khulna</item>
         <item>Mymensingh</item>
         <item>Rangpur</item>
         <item>Sylhet</item>
